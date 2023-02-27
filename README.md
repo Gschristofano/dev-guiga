@@ -16,12 +16,12 @@ Esta é uma solução para o [projeto de portfólio](https://www.udemy.com/cours
 
 ### Captura de tela
 
-![Pré-visualização do design para o projeto de portfólio](./design/desktop-preview.png)
+![Pré-visualização do design para o projeto de portfólio](./img/design/desktop-preview.png)
 
 ### Links
 
-- URL da solução: [GitHub]()
-- Live Site URL: [Netlify]()
+- URL da solução: [GitHub](https://github.com/Gschristofano/dev-guiga)
+- Live Site URL: [Netlify](https://dev-guiga.netlify.app/)
 
 ## Meu processo
 
